@@ -1,4 +1,4 @@
-This repository is no more used use the one on omniagit at the following link:
+# This repository is no more used use the one on omniagit at the following link:
 https://github.com/OmniaGit/odooplm
 
 # odooplm
