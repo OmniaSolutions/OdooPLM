@@ -1,3 +1,6 @@
+This repository is no more used use the one on omniagit at the following link:
+https://github.com/OmniaGit/odooplm
+
 # odooplm
 
 This is the develompent repository of odoo plm starting from version v11 of odoo
